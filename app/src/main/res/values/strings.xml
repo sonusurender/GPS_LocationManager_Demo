@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocationGPS Demo</string>
+    <string name="location_without_internet">Get Location Without Internet</string>
+    <string name="location_internet">Get Location Using Internet</string>
+    <string name="display_location">Your Location will be displayed here.</string>
+
+</resources>
